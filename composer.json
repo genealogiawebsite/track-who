@@ -1,17 +1,17 @@
 {
-    "name": "laravel-enso/track-who",
+    "name": "genealogiawebsite/track-who",
     "description": "Create, update and delete authoring tracking dependency for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "track-who"
     ],
-    "homepage": "https://github.com/laravel-enso/track-who",
+    "homepage": "https://github.com/genealogiawebsite/track-who",
     "type": "library",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
